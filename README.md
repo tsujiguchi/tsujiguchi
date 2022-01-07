@@ -19,8 +19,6 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tsujiguchi&count_private=true&theme=vue&show_icons=true" />
 </a>
 
----
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsujiguchi&count_private=true&theme=vue&layout=compact" />
 </a>
